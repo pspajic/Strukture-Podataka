@@ -1,0 +1,5 @@
+Marseille, 808700
+Lyon, 472305
+Pariz, 2125256
+Bordeaux, 246586
+Strasbourg, 276170

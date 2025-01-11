@@ -1,0 +1,5 @@
+London, 8866000
+Manchester, 549853
+Liverpool, 484488
+Cambridge, 146995
+Oxford, 160021
